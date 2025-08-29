@@ -181,7 +181,7 @@ const App = () => {
         <section id="demo-form" className="form-section">
           <div className="container">
             <h2 className="section-title">احجز الديمو المجاني بتاعك النهاردة</h2>
-            <p className="form-intro">املأ الفورم دي عشان نفهم البيزنس بتاعك ونوريك إزاي بالظبط الذكاء الاصطناعي هيكبّر شغلك.</p>
+            <p className="form-intro">املأ الفورم دي عشان نفهم البيزنس بتاعك ونوريك إزاي بالظبط الذكاء الاصطناعي هيغير طريقتك للأحسن 180 درجة.</p>
             
             <form className="demo-form" onSubmit={handleSubmit}>
               {/* Personal Info */}
